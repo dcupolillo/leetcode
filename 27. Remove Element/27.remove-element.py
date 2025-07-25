@@ -31,3 +31,6 @@ class Solution:
         
 # @lc code=end
 
+# 116/116 cases passed (0 ms)
+# Your runtime beats 100 % of python3 submissions
+# Your memory usage beats 11.01 % of python3 submissions (18 MB)

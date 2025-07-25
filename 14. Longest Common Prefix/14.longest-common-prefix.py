@@ -25,3 +25,6 @@ class Solution:
         return common_prefix
 # @lc code=end
 
+# 126/126 cases passed (0 ms)
+# Your runtime beats 100 % of python3 submissions
+# Your memory usage beats 30.61 % of python3 submissions (18 MB)

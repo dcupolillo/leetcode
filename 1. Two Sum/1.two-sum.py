@@ -42,4 +42,8 @@ class Solution:
         
                 if row + col == target and n_row != n_col:
                     return [n_row, n_col]
-                    
+
+# 63/63 cases passed (3124 ms)
+# Your runtime beats 5.49 % of python3 submissions
+# Your memory usage beats 99.02 % of python3 submissions (18.2 MB)
+

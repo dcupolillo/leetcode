@@ -5,8 +5,6 @@
 #
 
 # @lc code=start
-import numpy as np
-
 class Solution:
     def merge(
             self,
@@ -44,3 +42,6 @@ class Solution:
         
 # @lc code=end
 
+# 59/59 cases passed (0 ms)
+# Your runtime beats 100 % of python3 submissions
+# Your memory usage beats 25.43 % of python3 submissions (29.3 MB)
