@@ -6,7 +6,12 @@
 
 # @lc code=start
 class Solution:
-    def removeElement(self, nums: List[int], val: int) -> int:
+    def removeElement(
+            self,
+            nums: list,
+            val: int
+    ) -> int:
+        
         if len(nums) < 0 and len(nums) > 100:
             raise ValueError("Length of `nums` should be included between 0-100.")
 
