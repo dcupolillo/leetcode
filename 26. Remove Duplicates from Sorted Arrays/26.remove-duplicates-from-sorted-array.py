@@ -17,6 +17,9 @@ class Solution:
 
         return counter
 
+
+# @lc code=end
+
 # 362/362 cases passed (0 ms)
 # Your runtime beats 100 % of python3 submissions
 # Your memory usage beats 48.29 % of python3 submissions (19 MB)

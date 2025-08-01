@@ -28,7 +28,9 @@ class Solution:
                 values.remove(values[n + 1])
 
         return sum(values)
-                
+
+# @lc code=end
+
 # 3999/3999 cases passed (8 ms)
 # Your runtime beats 26.41 % of python3 submissions
 # Your memory usage beats 20.59 % of python3 submissions (18 MB)

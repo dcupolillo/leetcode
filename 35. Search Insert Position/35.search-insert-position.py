@@ -32,6 +32,8 @@ class Solution:
 # 
         # return left
 
+# @lc code=end
+
 # Linear solution
 # 66/66 cases passed (0 ms)
 # Your runtime beats 100 % of python3 submissions
@@ -42,5 +44,5 @@ class Solution:
 # Your runtime beats 100 % of python3 submissions
 # Your memory usage beats 25.76 % of python3 submissions (18.5 MB)
         
-# @lc code=end
+
 

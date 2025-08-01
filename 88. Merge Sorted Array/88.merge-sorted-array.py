@@ -37,9 +37,6 @@ class Solution:
         nums1.extend(nums2[:n])
         nums1.sort()
 
-
-        
-        
 # @lc code=end
 
 # 59/59 cases passed (0 ms)
